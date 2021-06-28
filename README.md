@@ -1,4 +1,4 @@
-# waves
+# Waves
 
 ## Experimenting with Three.js
 
