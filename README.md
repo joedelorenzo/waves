@@ -1,8 +1,9 @@
 # waves
 
-Experimenting with Three.js
+## Experimenting with Three.js
 
-In terminal, run parcel:
+
+In the terminal, run parcel:
 
 ```
 parcel index.html
